@@ -20,3 +20,12 @@ example of resource creation such as locall file:
 <img width="1250" alt="image" src="https://user-images.githubusercontent.com/61361506/160593357-ff018816-4cfb-413a-9119-ec3d91e1c7d4.png">
 
 <img width="876" alt="image" src="https://user-images.githubusercontent.com/61361506/160593562-338ca792-f651-43c7-94ce-abd240d021ec.png">
+
+<img width="1126" alt="image" src="https://user-images.githubusercontent.com/61361506/160595789-9bfc5ebb-e95e-45b5-81ea-a9fd827da8bb.png">
+
+<img width="1421" alt="image" src="https://user-images.githubusercontent.com/61361506/160595938-547055fa-1f55-49f4-9e77-eee91956d5bc.png">
+
+<img width="1420" alt="image" src="https://user-images.githubusercontent.com/61361506/160596100-1251c502-9229-4402-8cf9-f3013e6f7ae9.png">
+
+<img width="1597" alt="image" src="https://user-images.githubusercontent.com/61361506/160596172-ff5d23e5-2484-400d-9515-a527b0efd077.png">
+
