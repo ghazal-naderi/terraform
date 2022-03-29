@@ -29,3 +29,9 @@ example of resource creation such as locall file:
 
 <img width="1597" alt="image" src="https://user-images.githubusercontent.com/61361506/160596172-ff5d23e5-2484-400d-9515-a527b0efd077.png">
 
+Update and Destroy Infrastrature: 
+
+<img width="1677" alt="image" src="https://user-images.githubusercontent.com/61361506/160598571-eae284a6-5027-4a6f-b6d7-e5e350e5c147.png">
+
+<img width="1634" alt="image" src="https://user-images.githubusercontent.com/61361506/160598786-8d8676e6-f5aa-4069-aa80-394cb301c0a4.png">
+
