@@ -35,3 +35,25 @@ Update and Destroy Infrastrature:
 
 <img width="1634" alt="image" src="https://user-images.githubusercontent.com/61361506/160598786-8d8676e6-f5aa-4069-aa80-394cb301c0a4.png">
 
+
+Using variables in terra`form:
+
+<img width="1265" alt="image" src="https://user-images.githubusercontent.com/61361506/161048308-4bb257e0-6c68-42c6-b437-bd0b964a0185.png">
+
+<img width="1134" alt="image" src="https://user-images.githubusercontent.com/61361506/161048452-b67b7794-d590-4e9d-94de-7879c34f9a68.png">
+
+<img width="1153" alt="image" src="https://user-images.githubusercontent.com/61361506/161048550-91b1e5e1-8a1c-4a01-b0a4-6d82671ff102.png">
+
+<img width="1159" alt="image" src="https://user-images.githubusercontent.com/61361506/161048696-6e1bdd3f-7afd-48ba-baeb-ea22dee0ce16.png">
+
+<img width="1217" alt="image" src="https://user-images.githubusercontent.com/61361506/161048852-1f617503-5a6b-4cef-a3e2-5fa3e899441d.png">
+
+<img width="1286" alt="image" src="https://user-images.githubusercontent.com/61361506/161049136-e50335c6-0cd3-4ce8-bc74-525ab50da7c6.png">
+
+<img width="1297" alt="image" src="https://user-images.githubusercontent.com/61361506/161049333-23ed0b0f-6483-4ecf-9bdb-197b1192ec67.png">
+
+Using variable: 
+
+<img width="1215" alt="image" src="https://user-images.githubusercontent.com/61361506/161494999-57f49cf2-1854-4d68-bf94-8bdbb6d3f46f.png">
+
+
