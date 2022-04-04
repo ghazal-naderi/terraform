@@ -73,3 +73,8 @@ Variable defenition precenende
 
 <img width="1266" alt="image" src="https://user-images.githubusercontent.com/61361506/161495952-be496c53-7c94-4725-bc19-367b68a71512.png">
 
+Resource Attributes
+
+<img width="1288" alt="image" src="https://user-images.githubusercontent.com/61361506/161498729-74dd476b-cfba-484d-814f-536a63b9cfaa.png">
+
+<img width="651" alt="image" src="https://user-images.githubusercontent.com/61361506/161498872-326c5e0d-dddf-4306-b84e-16633d7567f9.png">
