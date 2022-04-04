@@ -56,4 +56,20 @@ Using variable:
 
 <img width="1215" alt="image" src="https://user-images.githubusercontent.com/61361506/161494999-57f49cf2-1854-4d68-bf94-8bdbb6d3f46f.png">
 
+<img width="1181" alt="image" src="https://user-images.githubusercontent.com/61361506/161495243-c5c1fd67-1f72-4c4f-847b-5cd84c9333bc.png">
+
+<img width="1219" alt="image" src="https://user-images.githubusercontent.com/61361506/161495350-c41175fe-87f7-4c14-85da-b64ca96c6af1.png">
+
+<img width="1152" alt="image" src="https://user-images.githubusercontent.com/61361506/161495438-3673486d-3bec-4596-b4d0-a48d735b7e82.png">
+
+<img width="1174" alt="image" src="https://user-images.githubusercontent.com/61361506/161495547-d8300166-e22f-49b5-b9ed-5b862e57a48b.png">
+
+<img width="1258" alt="image" src="https://user-images.githubusercontent.com/61361506/161495624-068e2382-3651-4111-a662-9eeb270a252a.png">
+
+Variable defenition precenende 
+
+<img width="1298" alt="image" src="https://user-images.githubusercontent.com/61361506/161496102-d667b0a0-836e-4ee0-85e1-62a28f2d6c55.png">
+
+
+<img width="1266" alt="image" src="https://user-images.githubusercontent.com/61361506/161495952-be496c53-7c94-4725-bc19-367b68a71512.png">
 
